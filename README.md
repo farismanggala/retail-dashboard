@@ -107,9 +107,8 @@ The cleaned dataset was visualized in Tableau to create an interactive dashboard
 ---
 
 ## Tableau Public Dashboard
-🔗 **Live Dashboard**:  
-*(Replace this with your Tableau Public URL)*  
-`https://public.tableau.com/your-dashboard-link`
+🔗 **Live Dashboard**:   
+`https://public.tableau.com/views/Book1_17664712728520/SalesMonitoring?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
 ---
 
