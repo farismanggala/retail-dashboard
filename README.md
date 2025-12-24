@@ -1,4 +1,4 @@
-# Project 3 — Retail Sales Data Visualization Dashboard
+# Retail Sales Data Visualization Dashboard
 
 ## Overview
 This project focuses on transforming retail transactional data into clear, actionable business insights through effective data visualization.  
